@@ -1,4 +1,4 @@
-## SmartTV
+## SmartTV - JAVA 
 
 ENG: System for SmartTV with functions to decrease/increase volume and channel, select the desired channel, and turn the TV on and off.
 
